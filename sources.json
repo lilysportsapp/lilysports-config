@@ -3,5 +3,9 @@
   "ppvBaseUrl": "https://api.ppv.st/",
   "ppvReferer": "https://ppv.st/",
   "streamsports99BaseUrl": "https://streamsports99.su/live-tv/",
-  "daddyliveBaseUrl": "https://dlhd.pk"
+  "daddyliveBaseUrl": "https://dlhd.pk",
+  "streamedBaseUrls": ["https://streamed.pk/", "https://streamed.st/"],
+  "ppvBaseUrls": ["https://api.ppv.invalid/", "https://api.ppv.st/", "https://api.ppv.cx/"],
+  "streamsports99BaseUrls": ["https://streamsports99.su/live-tv/"],
+  "daddyliveBaseUrls": ["https://dlhd.pk", "https://dlhd.st"]
 }
