@@ -7,6 +7,6 @@
   "streamedBaseUrls": ["https://streamed.pk/", "https://streamed.st/"],
   "ppvBaseUrls": ["https://api.ppv.st/", "https://api.ppv.cx/"],
   "streamsports99BaseUrls": ["https://streamsports99.su/live-tv/"],
-  "daddyliveBaseUrls": ["https://dlhd.invalid", "https://dlhd.pk", "https://dlhd.st"],
+  "daddyliveBaseUrls": ["https://dlhd.pk", "https://dlhd.st"],
   "sportsrcBaseUrls": ["https://api.sportsrc.org/"]
 }
