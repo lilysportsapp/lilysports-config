@@ -8,5 +8,7 @@
   "ppvBaseUrls": ["https://api.ppv.st/", "https://api.ppv.cx/"],
   "streamsports99BaseUrls": ["https://streamsports99.su/live-tv/"],
   "daddyliveBaseUrls": ["https://dlhd.pk", "https://dlhd.st"],
+  "timstreamsApiBaseUrls": ["https://api.timstreams.st/api/"],
+  "timstreamsReferer": "https://timstreams.st/",
   "sportsrcBaseUrls": ["https://api.sportsrc.org/"]
 }
