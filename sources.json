@@ -5,10 +5,10 @@
   "streamsports99BaseUrl": "https://streamsports99.su/live-tv/",
   "daddyliveBaseUrl": "https://dlhd.pk",
   "streamedBaseUrls": ["https://streamed.pk/", "https://streamed.st/"],
-  "ppvBaseUrls": ["https://api.ppv.st/", "https://api.ppv.cx/"],
+  "ppvBaseUrls": ["https://api.ppv.st/"],
   "streamsports99BaseUrls": ["https://streamsports99.su/live-tv/"],
   "daddyliveBaseUrls": ["https://dlhd.pk", "https://dlhd.st"],
-  "timstreamsApiBaseUrls": ["https://api.timstreams.st/api/"],
+  "timstreamsApiBaseUrls": ["https://timstreams.st/api/"],
   "timstreamsReferer": "https://timstreams.st/",
   "sportsrcBaseUrls": ["https://api.sportsrc.org/"]
 }
