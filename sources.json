@@ -2,13 +2,24 @@
   "streamedBaseUrl": "https://streamed.pk/",
   "ppvBaseUrl": "https://api.ppv.st/",
   "ppvReferer": "https://ppv.st/",
-  "streamsports99BaseUrl": "https://streamsports99.su/live-tv/",
+  "streamsports99BaseUrl": "https://streamsports99.ru/live-tv/",
   "daddyliveBaseUrl": "https://dlhd.pk",
   "streamedBaseUrls": ["https://streamed.pk/", "https://streamed.st/"],
   "ppvBaseUrls": ["https://api.ppv.st/"],
-  "streamsports99BaseUrls": ["https://streamsports99.su/live-tv/"],
-  "daddyliveBaseUrls": ["https://dlhd.pk", "https://dlhd.st"],
+  "streamsports99BaseUrls": [
+    "https://streamsports99.ru/live-tv/",
+    "https://streamsports99.su/live-tv/",
+    "https://streamsports99.tv/live-tv/",
+    "https://streamsports99.is/live-tv/",
+    "https://streamsports99.cx/live-tv/"
+  ],
+  "streamsports99PlayerBaseUrls": [
+    "https://cdnlivetv.tv/api/v1/channels/player/",
+    "https://cdnlivetv.is/api/v1/channels/player/"
+  ],
+  "daddyliveBaseUrls": ["https://dlhd.pk", "https://dlive.sx"],
   "timstreamsApiBaseUrls": ["https://timst.cfd/api/"],
   "timstreamsReferer": "https://timst.cfd/",
-  "sportsrcBaseUrls": ["https://api.sportsrc.org/"]
+  "sportsrcBaseUrls": ["https://api.sportsrc.org/"],
+  "hoofootBaseUrls": ["https://hoofoot.ru/"]
 }
