@@ -5,7 +5,11 @@
   "streamsports99BaseUrl": "https://streamsports99.ru/live-tv/",
   "daddyliveBaseUrl": "https://dlhd.pk",
   "streamedBaseUrls": ["https://streamed.pk/", "https://streamed.st/"],
-  "ppvBaseUrls": ["https://api.ppv.st/"],
+  "ppvBaseUrls": [
+    "https://api.ppv.st/",
+    "https://api.ppv.tj/",
+    "https://api.ppv.rw/"
+  ],
   "streamsports99BaseUrls": [
     "https://streamsports99.ru/live-tv/",
     "https://streamsports99.su/live-tv/",
