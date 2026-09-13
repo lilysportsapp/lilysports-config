@@ -8,7 +8,11 @@
   "ppvBaseUrls": [
     "https://api.ppv.st/",
     "https://api.ppv.tj/",
-    "https://api.ppv.rw/"
+    "https://api.ppvs.pk/",
+    "https://api.ppv.rw/",
+    "https://api.ppv.ms/",
+    "https://api.ppv.bi/",
+    "https://api.ppv.ug/"
   ],
   "streamsports99BaseUrls": [
     "https://streamsports99.ru/live-tv/",
