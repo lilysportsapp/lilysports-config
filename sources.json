@@ -29,5 +29,5 @@
   "timstreamsApiBaseUrls": ["https://timst.cfd/api/"],
   "timstreamsReferer": "https://timst.cfd/",
   "sportsrcBaseUrls": ["https://api.sportsrc.org/"],
-  "hoofootBaseUrls": ["https://hoofoot.ru/"]
+  "hoofootBaseUrls": ["https://cinevid.st/", "https://hoofoot.ru/"]
 }
