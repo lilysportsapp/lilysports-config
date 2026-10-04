@@ -26,8 +26,8 @@
     "https://cdnlivetv.is/api/v1/channels/player/"
   ],
   "daddyliveBaseUrls": ["https://dlhd.pk", "https://dlive.sx"],
-  "timstreamsApiBaseUrls": ["https://timst.cfd/api/"],
-  "timstreamsReferer": "https://timst.cfd/",
+  "timstreamsApiBaseUrls": ["https://timst.top/api/", "https://timst.cfd/api/"],
+  "timstreamsReferer": "https://timst.top/",
   "sportsrcBaseUrls": ["https://api.sportsrc.org/"],
   "hoofootBaseUrls": ["https://cinevid.st/", "https://hoofoot.ru/"]
 }
