@@ -29,5 +29,11 @@
   "timstreamsApiBaseUrls": ["https://timst.top/api/", "https://timst.cfd/api/"],
   "timstreamsReferer": "https://timst.top/",
   "sportsrcBaseUrls": ["https://api.sportsrc.org/"],
-  "hoofootBaseUrls": ["https://cinevid.st/", "https://hoofoot.ru/"]
+  "hoofootBaseUrls": ["https://cinevid.st/", "https://hoofoot.ru/"],
+  "pengu": {
+    "catalogShadow": true,
+    "matchedStreams": false,
+    "missingEvents": false,
+    "channelStreams": false
+  }
 }
