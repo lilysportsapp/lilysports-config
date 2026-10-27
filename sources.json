@@ -32,7 +32,7 @@
   "hoofootBaseUrls": ["https://cinevid.st/", "https://hoofoot.ru/"],
   "pengu": {
     "catalogShadow": true,
-    "matchedStreams": false,
+    "matchedStreams": true,
     "missingEvents": false,
     "channelStreams": false
   }
