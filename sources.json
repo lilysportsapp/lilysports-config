@@ -3,7 +3,7 @@
   "ppvBaseUrl": "https://api.ppv.st/",
   "ppvReferer": "https://ppv.st/",
   "streamsports99BaseUrl": "https://streamsports99.ru/live-tv/",
-  "daddyliveBaseUrl": "https://dlhd.pk",
+  "daddyliveBaseUrl": "https://thedaddy.pk",
   "streamedBaseUrls": ["https://streamed.pk/", "https://streamed.st/"],
   "ppvBaseUrls": [
     "https://api.ppv.st/",
@@ -25,13 +25,16 @@
     "https://cdnlivetv.tv/api/v1/channels/player/",
     "https://cdnlivetv.is/api/v1/channels/player/"
   ],
-  "daddyliveBaseUrls": ["https://dlhd.pk", "https://dlive.sx", "https://dlstreams.st"],
+  "daddyliveBaseUrls": ["https://thedaddy.pk", "https://dlhd.pk", "https://dlive.sx", "https://dlstreams.st"],
   "timstreamsApiBaseUrls": ["https://timst.top/api/", "https://timst.cfd/api/"],
   "timstreamsReferer": "https://timst.top/",
+  "cinevidCatalogBaseUrls": ["https://cinevid.st/"],
+  "cinevidApiBaseUrls": ["https://vidcdn.vip/"],
+  "streamfreeBaseUrls": ["https://streamfree.top/", "https://strmfree.st/"],
   "sportsrcBaseUrls": ["https://api.sportsrc.org/"],
   "hoofootBaseUrls": ["https://cinevid.st/", "https://hoofoot.ru/"],
   "pengu": {
-    "catalogShadow": true,
+    "catalogShadow": false,
     "matchedStreams": false,
     "missingEvents": false,
     "channelStreams": false
