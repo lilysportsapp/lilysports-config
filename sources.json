@@ -25,6 +25,7 @@
     "https://cdnlivetv.tv/api/v1/channels/player/",
     "https://cdnlivetv.is/api/v1/channels/player/"
   ],
+  "daddyliveEnabled": false,
   "daddyliveBaseUrls": ["https://thedaddy.pk", "https://dlhd.pk", "https://dlive.sx", "https://dlstreams.st"],
   "timstreamsEnabled": false,
   "timstreamsApiBaseUrls": ["https://tim-streams.com/api/"],
