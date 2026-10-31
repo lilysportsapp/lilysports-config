@@ -27,7 +27,7 @@
   ],
   "daddyliveEnabled": false,
   "daddyliveBaseUrls": ["https://thedaddy.pk", "https://dlhd.pk", "https://dlive.sx", "https://dlstreams.st"],
-  "timstreamsEnabled": false,
+  "timstreamsEnabled": true,
   "timstreamsApiBaseUrls": ["https://tim-streams.com/api/"],
   "timstreamsReferer": "https://tim-streams.com/",
   "cinevidEnabled": true,
