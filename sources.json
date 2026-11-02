@@ -38,6 +38,7 @@
   "streamfreeEnabled": true,
   "streamfreeBaseUrls": ["https://streamfree.top/", "https://strmfree.st/"],
   "sportsrcBaseUrls": ["https://api.sportsrc.org/"],
+  "hoofootEnabled": false,
   "hoofootBaseUrls": ["https://cinevid.st/", "https://hoofoot.ru/"],
   "pengu": {
     "catalogShadow": false,
