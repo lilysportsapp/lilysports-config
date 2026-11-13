@@ -37,6 +37,13 @@
   "cinevidApiBaseUrls": ["https://vidcdn.vip/"],
   "streamfreeEnabled": true,
   "streamfreeBaseUrls": ["https://streamfree.top/", "https://strmfree.st/"],
+  "streamcornerEnabled": true,
+  "streamcornerBaseUrls": [
+    "https://streamcorner.st/",
+    "https://streamcorner.foo/",
+    "https://streamcorner.cloud/",
+    "https://streamcorner.fun/"
+  ],
   "sportsrcBaseUrls": ["https://api.sportsrc.org/"],
   "hoofootEnabled": false,
   "hoofootBaseUrls": ["https://cinevid.st/", "https://hoofoot.ru/"],
