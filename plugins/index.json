@@ -1,0 +1,12 @@
+{
+  "plugins": [
+    {
+      "apiVersion": 1,
+      "className": "lily.p1.Entry",
+      "file": "p1-1.jar",
+      "id": "p1",
+      "sha256": "3e53a4db91266af8b17e4d4f82d32ea1b14c83a2ffb21899024487cc3e7bb61e",
+      "version": 1
+    }
+  ]
+}
