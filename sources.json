@@ -2,7 +2,7 @@
   "streamedBaseUrl": "https://streamed.pk/",
   "ppvBaseUrl": "https://api.ppv.st/",
   "ppvReferer": "https://ppv.st/",
-  "streamsports99BaseUrl": "https://streamsports99.ru/live-tv/",
+  "streamsports99BaseUrl": "https://streamsports99.tv/live-tv/",
   "daddyliveBaseUrl": "https://thedaddy.pk",
   "streamedBaseUrls": ["https://streamed.pk/", "https://streamed.st/"],
   "ppvBaseUrls": [
@@ -15,11 +15,12 @@
     "https://api.ppv.ug/"
   ],
   "streamsports99BaseUrls": [
-    "https://streamsports99.ru/live-tv/",
-    "https://streamsports99.su/live-tv/",
     "https://streamsports99.tv/live-tv/",
     "https://streamsports99.is/live-tv/",
-    "https://streamsports99.cx/live-tv/"
+    "https://streamsports99.cx/live-tv/",
+    "https://streamsports99.ch/live-tv/",
+    "https://streamsports99.su/live-tv/",
+    "https://streamsports99.ru/live-tv/"
   ],
   "streamsports99PlayerBaseUrls": [
     "https://cdnlivetv.tv/api/v1/channels/player/",
@@ -28,7 +29,7 @@
   "daddyliveEnabled": true,
   "falconEnabled": true,
   "falconBaseUrls": ["https://ntv.cx/", "https://ntvs.cx/"],
-  "daddyliveBaseUrls": ["https://thedaddy.pk", "https://dlhd.pk", "https://dlive.sx", "https://dlstreams.st"],
+  "daddyliveBaseUrls": ["https://dlhd.pk", "https://dlhd.st", "https://thedaddy.pk", "https://dlstreams.st", "https://dlive.sx"],
   "timstreamsEnabled": true,
   "timstreamsApiBaseUrls": ["https://tim-streams.com/api/", "https://timstreams.co.rw/api/"],
   "timstreamsReferer": "https://tim-streams.com/",
@@ -36,9 +37,10 @@
   "cinevidCatalogBaseUrls": ["https://cinevid.st/"],
   "cinevidApiBaseUrls": ["https://vidcdn.vip/"],
   "streamfreeEnabled": true,
-  "streamfreeBaseUrls": ["https://streamfree.top/", "https://strmfree.st/"],
+  "streamfreeBaseUrls": ["https://streamfree.top/", "https://strmfree.st/", "https://strmfree.pk/"],
   "streamcornerEnabled": true,
   "streamcornerBaseUrls": [
+    "https://strmcrnr.foo/",
     "https://streamcorner.st/",
     "https://streamcorner.foo/",
     "https://streamcorner.cloud/",
