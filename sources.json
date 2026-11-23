@@ -26,8 +26,8 @@
     "https://cdnlivetv.tv/api/v1/channels/player/",
     "https://cdnlivetv.is/api/v1/channels/player/"
   ],
-  "daddyliveEnabled": true,
-  "falconEnabled": true,
+  "daddyliveEnabled": false,
+  "falconEnabled": false,
   "falconBaseUrls": ["https://ntv.cx/", "https://ntvs.cx/"],
   "daddyliveBaseUrls": ["https://dlhd.pk", "https://dlhd.st", "https://thedaddy.pk", "https://dlstreams.st", "https://dlive.sx"],
   "timstreamsEnabled": true,
